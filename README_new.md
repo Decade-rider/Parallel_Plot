@@ -30,6 +30,7 @@
 ```bash
 pip install matplotlib numpy pandas scipy
 ```
+
 ## 字体配置
 
 建议提前配置Song Times字体，可以在其他绘图中直接显示中文宋体，英文、数字均为Times Newroman字体。配置可参照[字体和并工具](https://www.wolai.com/matplotlib/bjA8MaBAjCo5W6Jvc9PZYW)
