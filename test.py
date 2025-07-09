@@ -1,3 +1,13 @@
+'''
+Author: Decade-rider 1161949421@qq.com
+Date: 2025-07-09 15:50:46
+LastEditors: Decade-rider 1161949421@qq.com
+LastEditTime: 2025-07-09 16:54:30
+FilePath: \parallel_plot\test.py
+Description: 
+绘图示例
+Copyright (c) 2025 by 潘崇林, All Rights Reserved. 
+'''
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
