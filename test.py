@@ -82,7 +82,7 @@ fig, axes, _, _ = parallel_plot(
     spread=True,            
     alpha=0.6,              
     title='',
-    save_path='test/enteprise.svg',
+    save_path='test/enteprise.png',
     show_plot=False         
 )
 
