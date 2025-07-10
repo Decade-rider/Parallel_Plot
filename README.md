@@ -261,7 +261,7 @@ fig, axes, _, _ = parallel_plot(
 )
 ```
 
-![alt text](test/enteprise.png)
+![alt text](picture/enteprise.png)
 
 这个示例展示了：
 
